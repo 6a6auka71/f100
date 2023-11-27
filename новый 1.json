@@ -1,0 +1,34 @@
+{
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://imgur.com/GhVfSWd",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+    },
+    "links": [
+        {
+            "link1": {
+                "text": "Link to Wiki",
+                "url": "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended"
+            }
+        },
+        {
+            "link2": {
+                "text": "Link to discord",
+                "url": "https://discord.com/invite/K7NyrTV"
+            }
+        },
+        {
+            "link3": {
+                "text": "Link to Помощь серверу",
+                "url": "https://newrussianbears.survivalshop.org/"
+            }
+        }
+    ]
+}
